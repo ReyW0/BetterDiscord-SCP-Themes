@@ -2,13 +2,13 @@
 <p>A simple better discord Themes for SCP fan.
 <br><br>
 
-<b> THIS THEME IS BASED ON PYRITE THEMES <\b>
+<b> THIS THEME IS BASED ON PYRITE THEMES </b>
 <br><br>
 
 
 ## INSTALL BETTER DISCORD With his link :
 <br>
-See the [official website](https://betterdiscord.app/) for articles, tutorials and guides.
+  See the <a href="https://betterdiscord.app/"> Official Website </a> for articles, tutorials and guides.
 <br><br>
 
 ## Install SCP theme
