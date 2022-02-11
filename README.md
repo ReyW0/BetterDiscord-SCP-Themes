@@ -5,7 +5,7 @@
 <br><br>
 
 
-## IRST INSTALL BETTER DISCORD With his link :
+## INSTALL BETTER DISCORD With his link :
 <br>
 See the [official website](https://betterdiscord.app/) for articles, tutorials and guides.
 <br><br>
