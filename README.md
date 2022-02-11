@@ -1,4 +1,4 @@
-<img src = https://cdn.discordapp.com/attachments/810642217994682388/941523732021788712/unknown.png>
+<img src="https://media.discordapp.net/attachments/810642217994682388/941524274311741530/unknown.png?width=1250&height=671"></img>
 
 
 # BetterDiscord-SCP-Themes
