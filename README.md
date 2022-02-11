@@ -2,7 +2,7 @@
 <p>A simple better discord Themes for SCP fan.
 <br><br>
 
-<b> THIS THEME IS BASED ON PYRITE THEMES </b>
+<b> THIS THEME IS BASED ON PYRITE THEMES <\b>
 <br><br>
 
 
