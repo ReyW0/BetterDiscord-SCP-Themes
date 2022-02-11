@@ -8,7 +8,7 @@
 
 ## INSTALL BETTER DISCORD With his link :
 <br>
-  See the <a href="https://betterdiscord.app/" target="_blank">> Official Website </a> for articles, tutorials and guides.
+  See the <a href="https://betterdiscord.app/" target="_blank"> Official Website </a> for articles, tutorials and guides.
 <br><br>
 
 ## Install SCP theme
