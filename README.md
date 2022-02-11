@@ -16,4 +16,4 @@
 
 ## Install SCP theme
 <br>
-Copy scp.themme.css into %appdata%\BetterDiscord\themes
+Copy scp.theme.css into %appdata%\BetterDiscord\themes
